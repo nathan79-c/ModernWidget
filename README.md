@@ -16,7 +16,7 @@ A small Android widget created using the Glance library and Jetpack Compose to d
 
 ## Screenshot
 
-![Bible Verse Widget Screenshot]([screenshot.png](https://github.com/nathan79-c/ModernWidget/blob/master/app/src/main/res/drawable/widgetui.png))  
+![Bible Verse Widget Screenshot](screenshot.png](https://github.com/nathan79-c/ModernWidget/blob/master/app/src/main/res/drawable/widgetui.png)  
 *Replace `screenshot.png` with your actual image file.*
 
 ## How to Use
